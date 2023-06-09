@@ -15,7 +15,7 @@ To run the digit recognizer locally, follow these steps:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/digit-recognizer.git
+git clone https://github.com/Abhaykumar04/Classification_Digit_Recognizer.git
 ```
 
 ### 2. Set Up Dependencies
