@@ -69,4 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 - The digit dataset used in this project is sourced from Seaborn.
 - Special thanks to the scikit-learn library for providing the SVM and logistic regression implementations.
 
-Feel free to modify this README file to suit your project structure and specific details.
